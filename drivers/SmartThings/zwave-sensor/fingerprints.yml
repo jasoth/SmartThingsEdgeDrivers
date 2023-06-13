@@ -360,6 +360,12 @@ zwaveManufacturer:
     productType: 0x4953
     productId: 0x3031
     deviceProfileName: contact-battery-tamperalert
+  - id: 0063/4953/3032
+    deviceLabel: Jasco Hinge Pin Open/Closed Sensor
+    manufacturerId: 0x0063
+    productType: 0x4953
+    productId: 0x3032
+    deviceProfileName: base-contact
   - id: 019A/0003/0003
     deviceLabel: Sensative Open/Closed Sensor
     manufacturerId: 0x019A
