@@ -1,4 +1,4 @@
-name: 'Zigbee Window Treatment'
+name: 'Zigbee Window Treatment (jazuntee)'
 packageKey: 'zigbee-window-treatment'
 permissions:
   zigbee: {}

@@ -1,4 +1,4 @@
-name: 'Z-Wave Sensor'
+name: 'Z-Wave Sensor (jazuntee)'
 packageKey: 'zwave-sensor'
 permissions:
   zwave: {}
